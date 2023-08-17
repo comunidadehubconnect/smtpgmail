@@ -20,21 +20,21 @@ Acesse sua conta Google
 
 Vá até o menu “Segurança”
 
-<img src="https://github.com/cwmkt/smtpgmail/blob/main/imagens/Untitled.png" alt="Chatwoot-logo" width="500" />
+<img src="https://github.com/cwmkt/smtpgmail/blob/main/imagens/Untitled.png" alt="Chatwoot-logo" width="1000" />
 
 Sua conta precisa ter a verificação de duas etapas ativada para fazer esse processo, se não tiver a verificação ativada, siga os passos para que possa ativar, antes de continuar.
 
 Navegue até a opção  “Verificação em duas etapas”
 
-<img src="https://github.com/cwmkt/smtpgmail/blob/main/imagens/Untitled%20(1).png" width="100" />
+<img src="https://github.com/cwmkt/smtpgmail/blob/main/imagens/Untitled%20(1).png" width="1000" />
 
 Desça até “Senhas de app”
 
-<img src="https://github.com/cwmkt/smtpgmail/blob/main/imagens/Untitled%20(2).png" width="100" />
+<img src="https://github.com/cwmkt/smtpgmail/blob/main/imagens/Untitled%20(2).png" width="1000" />
 
 Em “Selecionar app” escolha a opção “Outro(nome personalizado)” defina um nome e gere sua senha 
 
-<img src="https://github.com/cwmkt/smtpgmail/blob/main/imagens/Untitled%20(3).png" width="100" />
+<img src="https://github.com/cwmkt/smtpgmail/blob/main/imagens/Untitled%20(3).png" width="1000" />
 
 Salve a senha em um lugar seguro, ela só é mostrada uma vez
 
@@ -46,7 +46,7 @@ Agora no terminal dentro do servidor com a sua instalação use
 sudo nano /home/chatwoot/chatwoot/.env
 ```
 
-<img src="https://github.com/cwmkt/smtpgmail/blob/main/imagens/Untitled%20(4).png" alt="Chatwoot-logo" width="100" />
+<img src="https://github.com/cwmkt/smtpgmail/blob/main/imagens/Untitled%20(4).png" width="1000" />
 
 Sai e salve o arquivo.
 
