@@ -56,6 +56,6 @@ Reinicie seu Chatwoot
 systemctl daemon-reload && systemctl restart chatwoot.target
 ```
 
-Por último pra validar se tudo ocorreu corretamente, só seguir o guia de [Validação de SMTP](https://github.com/cwmkt/testsmtp)
+Por último pra validar se tudo ocorreu corretamente, só seguir o guia de [Validação de SMTP](https://github.com/cwmkt/testsmtp/)
 <hr />
 <hr />
