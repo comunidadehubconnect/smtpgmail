@@ -55,3 +55,6 @@ Reinicie seu Chatwoot
 ```bash
 systemctl daemon-reload && systemctl restart chatwoot.target
 ```
+
+<hr />
+<hr />
