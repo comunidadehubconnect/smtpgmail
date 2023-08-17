@@ -46,7 +46,7 @@ Agora no terminal dentro do servidor com a sua instalação use
 sudo nano /home/chatwoot/chatwoot/.env
 ```
 
-<img src="https://github.com/cwmkt/smtpgmail/blob/main/imagens/Untitled%20(4).png" width="1000" />
+<img src="https://github.com/cwmkt/smtpgmail/blob/main/imagens/env-smtp-gmail.png" width="1000" />
 
 Sai e salve o arquivo.
 
